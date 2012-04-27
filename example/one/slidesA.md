@@ -64,19 +64,19 @@
 # Setup: Firefox Extension #
 
 !SLIDE center
-<iframe width="960" height="720" src="http://www.youtube.com/embed/SWSqslzhcIE" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="720" src="http://www.youtube.com/embed/bIKVxO-PCHE" frameborder="0" allowfullscreen></iframe>
 
 !SLIDE subsection
 # PageSpeed in Action #
 
 !SLIDE center
-<iframe width="960" height="720" src="http://www.youtube.com/embed/urCNSHIA978" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="720" src="http://www.youtube.com/embed/MiqPlevRBCY" frameborder="0" allowfullscreen></iframe>
 
 !SLIDE subsection
 # The Guts: Resources #
 
 !SLIDE
-<iframe width="960" height="720" src="http://www.youtube.com/embed/esX0GHBcrXo" frameborder="0" allowfullscreen></iframe>
+<iframe width="960" height="720" src="http://www.youtube.com/embed/y1lcPhOzu1A" frameborder="0" allowfullscreen></iframe>
 
 !SLIDE subsection
 # A little goes a long way #
