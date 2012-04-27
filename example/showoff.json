@@ -1,0 +1,12 @@
+{
+  "name": "Google PageSpeed",
+  "description": "Hungry Academy Lightning Talk",
+  "author": "Travis Valentine",
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"one"},
+    {"section":"two"},
+    {"section":"three"},
+    {"section":"four"}
+  ]
+}
